@@ -1,5 +1,7 @@
 **Project URL:** https://github.com/keerthiD7/singlepagecv
 🚀 **Live Demo:** https://keerthid7.github.io/singlepagecv/
+
+Project Link: https://roadmap.sh/projects/single-page-cv
 <img src="singlepagecv.png" width="100%">
 
 
