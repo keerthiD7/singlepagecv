@@ -1,5 +1,8 @@
 <img src="singlepagecv.png" width="100%">
 
+🔗 **Project URL:**  
+https://keerthiD7.github.io/singlepagecv/
+
 # Single Page CV
 
 A clean and professional single-page CV website built using HTML and CSS.  
