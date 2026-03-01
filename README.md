@@ -1,8 +1,8 @@
+**Project URL:** https://github.com/keerthiD7/singlepagecv
+🚀 **Live Demo:** https://keerthid7.github.io/singlepagecv/
 <img src="singlepagecv.png" width="100%">
 
-🔗 **Project URL:**  
-https://github.com/keerthiD7/singlepagecv
-https://keerthid7.github.io/singlepagecv/
+
 
 # Single Page CV
 
