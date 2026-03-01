@@ -1,7 +1,7 @@
 <img src="singlepagecv.png" width="100%">
 
 🔗 **Project URL:**  
-https://keerthiD7.github.io/singlepagecv/
+https://keerthiD7.github.io/singlepagecv
 
 # Single Page CV
 
