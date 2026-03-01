@@ -1,0 +1,27 @@
+body{
+    background-color:#f4f4f4;
+    font-family:Arial, sans-serif;
+}
+.container{
+    border:2px solid black;
+    width:800px;
+    padding:50px;
+    margin:50px auto;
+}
+hr{
+    
+    height:2px;
+    background-color: black;
+}
+
+h4{
+    color:green;
+}
+
+h5{
+    color:skyblue;
+}
+
+h4{
+    margin-bottom: 5px;
+}
