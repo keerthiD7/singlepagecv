@@ -2,6 +2,7 @@
 
 🔗 **Project URL:**  
 https://github.com/keerthiD7/singlepagecv
+https://keerthid7.github.io/singlepagecv/
 
 # Single Page CV
 
