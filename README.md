@@ -1,4 +1,4 @@
-<img src="screenshot.png" width="100%">
+<img src="singlepagecv.png" width="100%">
 
 # Single Page CV
 
